@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
-!pip install streamlit_jupyter
 
 x = np.linspace(0, 6000, 1000) # generate 1000 equaly spaced values between 0 and 6000 
 y = np.linspace(0, 4000, 1000 ) # generate 1000 equaly spaced values between 0 and 4000
