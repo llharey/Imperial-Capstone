@@ -1,5 +1,5 @@
 import numpy as np
-!pip install pyplot
+pip install pyplot
 import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings("ignore")
